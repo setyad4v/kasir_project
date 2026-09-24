@@ -1,5 +1,5 @@
 # kasir_project
-Draft awal atau tempat belajar membuat aplikasi kasir, part by part
+Draft awal atau tempat belajar membuat aplikasi kasir, feature by feature
 
 I will use this repo for make cash register
 
